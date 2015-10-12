@@ -1,0 +1,27 @@
+{
+  "name": "email-template-workflow",
+  "version": "0.0.0",
+  "authors": [
+    "Lars Krieger <lars.krieger@gmail.com>"
+  ],
+  "description": "Email template tool and workflow",
+  "keywords": [
+    "Email",
+    "Template",
+    "Workflow",
+    "Gulp",
+    "Javascript",
+    "Angular",
+    "Python",
+    "Flask"
+  ],
+  "license": "MIT",
+  "homepage": "http://nopzen.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
