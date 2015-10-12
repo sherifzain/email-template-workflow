@@ -1,0 +1,2 @@
+template_path: 'private/emails'
+static_path: 'static'
