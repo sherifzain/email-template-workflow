@@ -1,0 +1,26 @@
+{
+  "name": "email-template-workflow",
+  "version": "0.0.0",
+  "description": "Email template tool and workflow",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "keywords": [
+    "Email",
+    "Template",
+    "Workflow",
+    "Gulp",
+    "Javascript",
+    "Angular",
+    "Python",
+    "Flask"
+  ],
+  "author": "Lars Krieger, <lars.krieger@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-premailer": "^0.4.0",
+    "gulp-sass": "^2.0.4"
+  }
+}
